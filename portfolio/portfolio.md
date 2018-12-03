@@ -1,4 +1,4 @@
-## Coursework
+### Coursework
 Created a heatmap of an Airports shapefile with a kernel radius of 300,000 layer units.
 
 ![alt text](https://chricha1.github.io/heatmap.PDF)
@@ -7,7 +7,7 @@ Mapped density of populated places with hexagonal grid analysis.
 
 ![alt text](https://chricha1.github.io/hexagon.PDF)
 
-## Defenders of Wildlife Internship
+### Defenders of Wildlife Internship
 In summer of 2018, I worked as the GIS Intern at the Defenders of Wildlife headquarters in Washington, D.C.
 
 One of my projects involved working on derelict vessel issues in Washington State.
