@@ -1,5 +1,6 @@
 ---
 title: Lab 1
+feature_image: "lab1.png"
 ---
 
 #### Process of Creating the Map
