@@ -1,3 +1,7 @@
+---
+title: Lab 4
+---
+
 #### Part 1
 ###### Figure 7.5:
 
