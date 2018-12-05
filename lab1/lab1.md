@@ -5,7 +5,7 @@ title: Lab 1
 #### Process of Creating the Map
 For guidelines on how to add visual details to the map, I did a Google search of "Baltimore MVA"
 to see what types of colors others have used to make a map like this. I also watched two map production videos on YouTube,
-Cartography with QGIS Task 1 (www.youtube.com/watch?v=pb8EJFV4SLs) and 2 (www.youtube.com/watch?v=5TpCuwGeDZc).
+[Cartography with QGIS Task 1] (www.youtube.com/watch?v=pb8EJFV4SLs) and [Cartography with QGIS Task 2] (www.youtube.com/watch?v=5TpCuwGeDZc).
 ... (more on what I learned from videos) ...
 
 I used the given shapefile called "baltimore_mva_2014" shapefile, which contained the market types in the  the column hmt.
