@@ -1,5 +1,5 @@
-## Part 1
-#### Figure 7.5:
+#### Part 1
+###### Figure 7.5:
 
 Code:
 ```python
@@ -14,7 +14,7 @@ Output:
 ![alt text](https://chricha1.github.io/Figure7.5.PNG)
 
 
-#### Exercises in 7.7
+###### Exercises in 7.7
 
 1. Add the World_Borders layer to the map canvas
 ```python
@@ -39,8 +39,8 @@ FILL SYMBOL (1 layers) color 152,125,183,255
 >>> layer_tree.refreshLayerSymbology(wb.id())
 ```
 
-## Part 2
-#### Loading a vector layer from a file sample:
+#### Part 2
+###### Loading a vector layer from a file sample:
 
 Code:
 ```python
@@ -55,7 +55,7 @@ True
 Output:
 ![alt text](https://chricha1.github.io/VectorFromFile.PNG)
 
-#### Examining vector layer features:
+###### Examining vector layer features:
 
 Code:
 ```python
@@ -71,7 +71,7 @@ Ouput:
 <QgsPointXY: POINT(-74.01375579573735308 40.70381655004537436)>
 ```
 
-#### Examining vector layer attributes:
+###### Examining vector layer attributes:
 
 Code:
 ```python
@@ -86,14 +86,14 @@ Output:
 ['Alexander Hamilton U.S. Custom House', '(212) 514-3700', 'http://www.oldnycustomhouse.gov/', '1 Bowling Grn', NULL, 'New York', 10004.0]
 ```
 
-###### There's more...
+######### There's more...
 
 ```python
 >>> [c.name() for c in f.fields().toList()]
 ['NAME', 'TEL', 'URL', 'ADRESS1', 'ADDRESS2', 'CITY', 'ZIP']
 ```
 
-#### Filtering a layer by geometry:
+###### Filtering a layer by geometry:
 - Select a subset of a point layer based on the points contained in an overlapping polygon layer:
 ```python
 lyrPts = QgsVectorLayer("Z:/ges486/Lab_4/data/MSCities_Geo_Pts.shp", "MSCities_Geo_Pts", "ogr")
@@ -124,7 +124,7 @@ Output:
 Output:
 ![alt text](https://chricha1.github.io/Filter2.PNG)
 
-#### Buffering a feature intermediate:
+###### Buffering a feature intermediate:
 
 Code:
 ```python
@@ -146,7 +146,7 @@ QgsProject.instance().addMapLayers([buffLyr])
 Output:
 ![alt text](https://chricha1.github.io/Buffer1.PNG)
 
-#### Measuring the distance between two points:
+###### Measuring the distance between two points:
 
 Code:
 ```python
@@ -168,7 +168,7 @@ Output:
 4401.1622240174165
 ```
 
-#### Measuring the distance along a line sample:
+###### Measuring the distance along a line sample:
 
 Code:
 ```python
@@ -187,7 +187,7 @@ Code:
 
 ```
 
-#### Calculating the area of a polygon:
+###### Calculating the area of a polygon:
 
 Code:
 ```python
@@ -206,7 +206,7 @@ Output:
 ![alt text](https://chricha1.github.io/PolygonArea.PNG)
 
 
-#### Creating a spatial index:
+###### Creating a spatial index:
 ```python
 lyr = QgsVectorLayer("Z:/ges486/Lab_4/data/NYC_MUSEUMS_GEO.shp", "Museums", "ogr")
 fts = lyr.getFeatures()
