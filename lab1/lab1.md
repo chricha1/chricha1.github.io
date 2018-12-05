@@ -1,3 +1,7 @@
+---
+title: Lab 1
+---
+
 #### Process of Creating the Map
 For guidelines on how to add visual details to the map, I did a Google search of "Baltimore MVA"
 to see what types of colors others have used to make a map like this. I also watched two map production videos on YouTube,
