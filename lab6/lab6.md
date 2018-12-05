@@ -1,4 +1,6 @@
-## Lab 6
+---
+title: Lab 6
+---
 
 #### Part 1
 
