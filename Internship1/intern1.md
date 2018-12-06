@@ -10,4 +10,4 @@ I corresponded with Tammy Robbins, the Natural Resource Specialist of the Aquati
 at the Washington State Department of Natural Resources.
 I helped identify and map boat disposal locations throughout Washington state.
 
-![It's Fine Alt Text](Cook_Inlet_oilposter.pdf)
+![Alt Text](Cook_Inlet_oilposter.pdf)
