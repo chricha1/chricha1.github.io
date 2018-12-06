@@ -9,3 +9,5 @@ One of my projects involved working on derelict vessel issues in Washington Stat
 I corresponded with Tammy Robbins, the Natural Resource Specialist of the Aquatic Resources Division
 at the Washington State Department of Natural Resources.
 I helped identify and map boat disposal locations throughout Washington state.
+
+![It's Fine Alt Text](Cook_Inlet_oilposter.pdf)
