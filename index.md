@@ -6,6 +6,8 @@ title: Christine Chang's GIS Portfolio
 <div style="display: table-cell; width:370px; margin-right:3px" markdown="1">
 
 ###### Lab 1
+
+![It's Fine Alt Text](lab1/lab1_teaser.png)
 [See more details here.](https://chricha1.github.io/lab1/lab1.html)
 
 ###### Lab 4
