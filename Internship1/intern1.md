@@ -1,5 +1,6 @@
 ---
 title: Defenders of Wildlife
+feature_image: "intern_teaser.png"
 ---
 
 During the summer of 2018, I worked as a GIS Intern in the Center for Conservation Innovation
