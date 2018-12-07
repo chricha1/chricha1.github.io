@@ -1,5 +1,6 @@
 ---
 title: Lab 6
+feature_image: "lab6_teaser.png"
 ---
 
 #### Part 1
