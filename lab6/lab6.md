@@ -1,6 +1,6 @@
 ---
 title: Lab 6
-feature_image: "lab6_feature2.png"
+feature_image: "lab6_feature2.PNG"
 ---
 
 #### Process
