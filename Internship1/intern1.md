@@ -5,7 +5,7 @@ feature_image: "intern1_feature.png"
 
 During the summer of 2018, I worked as a GIS Intern in the Center for Conservation Innovation
 at the Defenders of Wildlife headquarters in Washington, D.C.
-My supervisor was Matthew Moskwik, PhD - Conservation GIS Scientist at Defenders of Wildlife HQ.
+My supervisor was [Matthew Moskwik, PhD](https://defenders.org/staff/matthew-moskwik) - Conservation GIS Scientist.
 
 #### Washington Boat Disposal Sites map
 One of my projects involved working on derelict vessel issues in Washington State.
