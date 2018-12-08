@@ -12,6 +12,7 @@ title: Christine Chang's GIS Portfolio
 [See more details here.](https://chricha1.github.io/lab1/lab1.html)
 
 <small>__Tools__: QGIS, YouTube
+  
 <small>__Data__: 
 [City of Baltimore Open GIS Data Site](http://gis-baltimore.opendata.arcgis.com/)
 
@@ -26,6 +27,8 @@ title: Christine Chang's GIS Portfolio
 
 <small>__Tools__: Atom
 
+<small>__Data__: [Locate Press](http://locatepress.com/ppg3/data_code), [Natural Earth](http://www.naturalearthdata.com/downloads/)
+
 <!--This is the second row of projects -->
 <div style="display:table-row; width:100%; table-layout: fixed">
 <div style="display: table-cell; width:370px; margin-right:3px" markdown="1">
@@ -36,13 +39,22 @@ title: Christine Chang's GIS Portfolio
 [See more details here.](https://chricha1.github.io/lab6/lab6.html)
 
 <small>__Tools__: GeoDa
+
 <small>__Data__: 
 [Baltimore Neighborhood Indicators Alliance](https://bniajfi.org/vital_signs/)
+
+</div>
+
+<div style="display: table-cell; width:370px" markdown="1">
 
 ###### Final Project
 ![It's Fine Alt Text](finalproject/finalteaser.png)
 
 [See more details here.](https://chricha1.github.io/finalproject/finalproject.html)
+
+<small>__Tools__: GeoDa
+
+<small>__Data__: [Global Forest Watch](https://gis-gfw.wri.org/arcgis/rest/services/forest_change/MapServer/1)
 
 <!--This is the third row of projects -->
 <div style="display:table-row; width:100%; table-layout: fixed">
