@@ -39,5 +39,5 @@ title: Christine Chang's GIS Portfolio
 [See more details here.](https://chricha1.github.io/finalproject/finalproject.html)
 
 ###### Defenders of Wildlife Internship
-![It's Fine Alt Text](Internship1/intern_teaser.png)
+![It's Fine Alt Text](Internship1/intern1_teaser.png)
 [See more details here.](https://chricha1.github.io/Internship1/intern1.html)
