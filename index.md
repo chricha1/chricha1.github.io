@@ -25,6 +25,8 @@ title: Christine Chang's GIS Portfolio
 
 [See more details here.](https://chricha1.github.io/lab5/lab5.html)
 
+<small>__Tools__: Atom
+
 <!--This is the second row of projects -->
 <div style="display:table-row; width:100%; table-layout: fixed">
 <div style="display: table-cell; width:370px; margin-right:3px" markdown="1">
@@ -33,6 +35,8 @@ title: Christine Chang's GIS Portfolio
 ![It's Fine Alt Text](lab6/lab6_teaser2.png)
 
 [See more details here.](https://chricha1.github.io/lab6/lab6.html)
+
+<small>__Tools__: GeoDa
 
 <small>__Data__: 
 [Baltimore Neighborhood Indicators Alliance](https://bniajfi.org/vital_signs/)
@@ -49,3 +53,8 @@ title: Christine Chang's GIS Portfolio
 ###### Defenders of Wildlife Internship
 ![It's Fine Alt Text](Internship1/intern1_teaser.png)
 [See more details here.](https://chricha1.github.io/Internship1/intern1.html)
+
+<small>__Tools__: ArcMap
+
+<small>__Data__:
+[Washington State Department of Natural Resources](https://www.dnr.wa.gov/programs-and-services/aquatics/derelict-vessels/vessel-turn-program)
