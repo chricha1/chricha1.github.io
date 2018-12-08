@@ -25,7 +25,7 @@ title: Christine Chang's GIS Portfolio
 
 [See more details here.](https://chricha1.github.io/lab5/lab5.html)
 
-<small>__Tools__: Atom
+<small>__Tools__: Atom, SQL, Python, QGIS
 
 <small>__Data__: [Locate Press](http://locatepress.com/ppg3/data_code), [Natural Earth](http://www.naturalearthdata.com/downloads/)
 
