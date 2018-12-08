@@ -11,6 +11,15 @@ title: Christine Chang's GIS Portfolio
 
 [See more details here.](https://chricha1.github.io/lab1/lab1.html)
 
+<small>__Tools__: QGIS, YouTube
+
+<small>__Data__: 
+[City of Baltimore Open GIS Data Site](http://gis-baltimore.opendata.arcgis.com/)
+
+</div>
+
+<div style="display: table-cell; width:370px" markdown="1">
+
 ###### Lab 5
 ![It's Fine Alt Text](lab5/lab5_teaser.png)
 
