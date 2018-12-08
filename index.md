@@ -12,7 +12,6 @@ title: Christine Chang's GIS Portfolio
 [See more details here.](https://chricha1.github.io/lab1/lab1.html)
 
 <small>__Tools__: QGIS, YouTube
-
 <small>__Data__: 
 [City of Baltimore Open GIS Data Site](http://gis-baltimore.opendata.arcgis.com/)
 
@@ -37,7 +36,6 @@ title: Christine Chang's GIS Portfolio
 [See more details here.](https://chricha1.github.io/lab6/lab6.html)
 
 <small>__Tools__: GeoDa
-
 <small>__Data__: 
 [Baltimore Neighborhood Indicators Alliance](https://bniajfi.org/vital_signs/)
 
@@ -56,6 +54,5 @@ title: Christine Chang's GIS Portfolio
 [See more details here.](https://chricha1.github.io/Internship1/intern1.html)
 
 <small>__Tools__: ArcMap
-
 <small>__Data__:
 [Washington State Department of Natural Resources](https://www.dnr.wa.gov/programs-and-services/aquatics/derelict-vessels/vessel-turn-program)
