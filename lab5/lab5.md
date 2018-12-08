@@ -3,6 +3,9 @@ title: Lab 5
 feature_image: "lab5_feature.png"
 ---
 
+#### Process
+Chapter 8 Running Scripts and Chapter 9 Tips and Techniques from The PyQGIS Programmer's Guide by Gary Sherman.
+
 #### Chapter 8
 
 1. The first_script.py script doesn’t check to see if the data layer is valid.
