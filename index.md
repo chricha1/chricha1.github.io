@@ -20,6 +20,7 @@ title: Christine Chang's GIS Portfolio
 <div style="display: table-cell; width:370px; margin-right:3px" markdown="1">
   
 ###### Lab 5
+![It's Fine Alt Text](lab5/lab5_teaser.png)
 
 [See more details here.](https://chricha1.github.io/lab5/lab5.html)
 
