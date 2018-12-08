@@ -34,6 +34,9 @@ title: Christine Chang's GIS Portfolio
 
 [See more details here.](https://chricha1.github.io/lab6/lab6.html)
 
+<small>__Data__: 
+[Baltimore Neighborhood Indicators Alliance](https://bniajfi.org/vital_signs/)
+
 ###### Final Project
 ![It's Fine Alt Text](finalproject/finalteaser.png)
 
