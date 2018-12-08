@@ -4,9 +4,9 @@ feature_image: "lab5_feature.png"
 ---
 
 #### Process
-Chapter 8 Running Scripts and Chapter 9 Tips and Techniques from The PyQGIS Programmer's Guide by Gary Sherman.
+Guidelines from The PyQGIS Programmer's Guide by Gary Sherman.
 
-#### Chapter 8
+###### Chapter 8: Running Scripts
 
 1. The first_script.py script doesn’t check to see if the data layer is valid.
 Modify first_script.py to implement this check.
@@ -130,7 +130,7 @@ Output:
 
 ![alt text](https://chricha1.github.io/Ch8Ex4.PNG)
 
-#### Chapter 9
+###### Chapter 9: Tips and Techniques
 
 1. Find the qgis.utils module in your QGIS install and open it in a text editor.
 Examine the methods and data structures available.
