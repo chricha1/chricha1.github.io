@@ -1,5 +1,6 @@
 ---
 title: Lab 5
+feature_image: "lab5_teaser.png"
 ---
 
 #### Chapter 8
