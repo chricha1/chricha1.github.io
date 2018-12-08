@@ -5,7 +5,7 @@ title: Christine Chang's GIS Portfolio
 <div style="display:table-row; width:100%; table-layout: fixed">
 <div style="display: table-cell; width:370px; margin-right:3px" markdown="1">
 
-###### Lab 1
+### Lab 1
 
 ![It's Fine Alt Text](lab1/lab1_teaser1.png)
 
@@ -20,7 +20,8 @@ title: Christine Chang's GIS Portfolio
 
 <div style="display: table-cell; width:370px" markdown="1">
 
-###### Lab 5
+### Lab 5
+
 ![It's Fine Alt Text](lab5/lab5_teaser.png)
 
 [See more details here.](https://chricha1.github.io/lab5/lab5.html)
@@ -29,11 +30,14 @@ title: Christine Chang's GIS Portfolio
 
 <small>__Data__: [Locate Press](http://locatepress.com/ppg3/data_code), [Natural Earth](http://www.naturalearthdata.com/downloads/)
 
+</div>
+</div>
 <!--This is the second row of projects -->
 <div style="display:table-row; width:100%; table-layout: fixed">
 <div style="display: table-cell; width:370px; margin-right:3px" markdown="1">
 
-###### Lab 6
+### Lab 6
+
 ![It's Fine Alt Text](lab6/lab6_teaser2.png)
 
 [See more details here.](https://chricha1.github.io/lab6/lab6.html)
@@ -47,7 +51,8 @@ title: Christine Chang's GIS Portfolio
 
 <div style="display: table-cell; width:370px" markdown="1">
 
-###### Final Project
+### Final Project
+
 ![It's Fine Alt Text](finalproject/finalteaser.png)
 
 [See more details here.](https://chricha1.github.io/finalproject/finalproject.html)
@@ -56,11 +61,14 @@ title: Christine Chang's GIS Portfolio
 
 <small>__Data__: [Global Forest Watch](https://gis-gfw.wri.org/arcgis/rest/services/forest_change/MapServer/1)
 
+</div>
+</div>
 <!--This is the third row of projects -->
 <div style="display:table-row; width:100%; table-layout: fixed">
 <div style="display: table-cell; width:370px; margin-right:3px" markdown="1">
 
-###### Defenders of Wildlife Internship
+### Defenders of Wildlife Internship
+
 ![It's Fine Alt Text](Internship1/intern1_teaser.png)
 
 [See more details here.](https://chricha1.github.io/Internship1/intern1.html)
