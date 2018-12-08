@@ -7,7 +7,7 @@ title: Christine Chang's GIS Portfolio
 
 ###### Lab 1
 
-![It's Fine Alt Text](lab1/lab1_teaser.png)
+![It's Fine Alt Text](lab1/lab1_teaser1.png)
 
 [See more details here.](https://chricha1.github.io/lab1/lab1.html)
 
