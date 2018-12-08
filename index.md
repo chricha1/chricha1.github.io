@@ -38,6 +38,10 @@ title: Christine Chang's GIS Portfolio
 
 [See more details here.](https://chricha1.github.io/finalproject/finalproject.html)
 
+<!--This is the third row of projects -->
+<div style="display:table-row; width:100%; table-layout: fixed">
+<div style="display: table-cell; width:370px; margin-right:3px" markdown="1">
+
 ###### Defenders of Wildlife Internship
 ![It's Fine Alt Text](Internship1/intern1_teaser.png)
 [See more details here.](https://chricha1.github.io/Internship1/intern1.html)
