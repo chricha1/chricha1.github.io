@@ -1,14 +1,27 @@
 ---
 title: Defenders of Wildlife
-feature_image: "intern_teaser.png"
+feature_image: "intern1_feature.png"
 ---
 
 During the summer of 2018, I worked as a GIS Intern in the Center for Conservation Innovation
 at the Defenders of Wildlife headquarters in Washington, D.C.
 
+#### Washington Boat Disposal Sites map
 One of my projects involved working on derelict vessel issues in Washington State.
 I corresponded with Tammy Robbins, the Natural Resource Specialist of the Aquatic Resources Division
 at the Washington State Department of Natural Resources.
 I helped identify and map boat disposal locations throughout Washington state.
 
+![It's Fine Alt Text](Internship1/Washington_Boats.PNG)
+
+#### Alaska Oil Spill Report flyers
+I took on a project that was handed to my supervisor by Karla M. Dutton, the Alaska Program Director for Defenders of Wildlife.
+I updated oil spill report flyers to display Cook Inlet and the Kodiak Region. These flyers would later be distributed to schools,
+washaterias, and other public places in the Alaskan community.
+
+In order to create these maps, I used ArcMap for the basemap, added Coast Guard boundaries, and created point shapefiles of major towns
+and villages.
+
 ![It's Fine Alt Text](Internship1/CookInlet_OilPoster.PNG)
+
+![It's Fine Alt Text](Internship1/KodiakIsland_OilPoster.PNG)
