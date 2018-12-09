@@ -1,13 +1,18 @@
-What are you going to do for the final project?
-What is your question?
-Where is the data coming from? (Provide links)
-What three non-superficial elements from the class are you going to incorporate? Python? SQL? Moran's I? 3D mapping? Hexagonal analysis? Analysis in GeoDa? Something else? (Non-superficial meaning doing more than importing the data with python.)
-How will you know when you've answered your question?
+### Objectives
 
-Create a new section of your markdown that will explain:
-What other component from the class will you incorporate?
-Why is it more involved than the labs?
-Why did you choose this component?
+### Question
 
-Create another section:
-Go above and beyond and try something new - explain what it is that you learned on your own here.
+### Data
+[Audubon](http://climate.audubon.org/article/audubon-report-glance)
+
+### Tools
+
+
+### Process
+
+--- to get a B
+### Rationale
+* Other components from the class that I will incorporate are GIFs, 
+
+--- to get an A
+### Conclusions
