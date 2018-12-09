@@ -9,6 +9,7 @@
 
 
 ### Process
+https://community.esri.com/groups/esri-training/blog/2009/10/08/use-the-five-step-gis-analysis-process
 
 --- to get a B
 ### Rationale
