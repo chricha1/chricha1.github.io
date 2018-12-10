@@ -26,4 +26,4 @@ and villages.
 
 ![It's Fine Alt Text](https://github.com/chricha1/chricha1.github.io/blob/master/Internship1/CookInlet_OilPoster.png "CookInlet_OilPoster.png")
 
-![It's Fine Alt Text](Internship1/KodiakIsland_OilPoster.PNG)
+![It's Fine Alt Text](https://github.com/chricha1/chricha1.github.io/blob/master/Internship1/KodiakIsland_OilPoster.PNG "KodiakIsland_OilPoster.PNG")
