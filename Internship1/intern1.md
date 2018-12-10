@@ -24,6 +24,6 @@ These flyers would later be distributed to schools, washaterias, and other publi
 In order to create these maps, I used ArcMap for the basemap, added Coast Guard boundaries, and created point shapefiles of major towns
 and villages.
 
-![It's Fine Alt Text](Internship1/CookInlet_OilPoster.PNG)
+![It's Fine Alt Text](https://github.com/chricha1/chricha1.github.io/blob/master/Internship1/Cook_Inlet_oilposter.pdf "Cook_Inlet_oilposter.pdf")
 
 ![It's Fine Alt Text](Internship1/KodiakIsland_OilPoster.PNG)
