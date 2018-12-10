@@ -9,7 +9,7 @@ feature_image: "lab6_feature2.PNG"
 "OBJECTID" (instead of "CSA2010" because it is a string) in the
 "Vital_Signs_16_Arts_and_Culture" shapefile.
 
-![alt text](https://chricha1.github.io/Fig2-1.PNG)
+![alt text](https://github.com/chricha1/chricha1.github.io/blob/master/lab6/Fig2-1.PNG "Fig2-1.PNG")
 
 2 . Ran a regression report to observe the correlation between
 "cebus16" (Number of Businesses that are Arts-Related
