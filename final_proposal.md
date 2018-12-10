@@ -14,6 +14,11 @@ How does climate change overall and local human activity affect bird habitat ran
 [ArcGIS](https://www.arcgis.com/home/item.html?id=06e80debbbc540b2bc620f874b011774),
 [data.gov](https://catalog.data.gov/dataset?tags=bird)
 
+[USGS National Gap Analysis Project (GAP) | Species Data Portal](https://gapanalysis.usgs.gov/species/data/download/)
+[American Goldfinch Habitat Model Report](https://www.sciencebase.gov/catalog/item/58fa4481e4b0b7ea54524c4b),
+[]()
+[]()
+
 ### Tools
 I will use Moran's I and hexagonal analysis to summarize my findings and put it on the map.
 I will use Python to automate the geoprocessing of mapping habitat range in different years for each bird species.
