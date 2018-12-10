@@ -23,6 +23,6 @@ Surrounding those areas were mostly stressed, and there were some middle market 
 
 #### Future Alterations
 
-Baltimore_Neighborhood_Market_Types.PDF
+(https://github.com/chricha1/chricha1.github.io/blob/master/lab1/Bmore.PNG)
 
 
