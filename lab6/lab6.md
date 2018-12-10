@@ -29,7 +29,7 @@ and the number of art-related businesses.
 
 3 . Created the Bivariate Local Moran's I map.
 
-![alt text](https://chricha1.github.io/Part2Fig3.PNG)
+![alt text](https://github.com/chricha1/chricha1.github.io/blob/master/lab6/Part2Fig3.PNG "Part2Fig3.PNG")
 
 #### Findings
 
