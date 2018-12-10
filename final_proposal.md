@@ -6,11 +6,10 @@ I want to explore the relationship between urban areas and bird habitat, and com
 How does climate change overall and local human activity affect bird habitat ranges in the United States?
 
 ### Data
-[Audubon](http://climate.audubon.org/article/audubon-report-glance)
-[USFWS Geospatial Services](https://www.fws.gov/gis/data/national/)
-[Environmental Conservation Online System](https://ecos.fws.gov/ecp/report/table/critical-habitat.html)
-[Audubon](http://climate.audubon.org/article/audubon-report-glance)
-[ArcGIS](https://www.arcgis.com/home/item.html?id=06e80debbbc540b2bc620f874b011774)
+[Audubon](http://climate.audubon.org/article/audubon-report-glance), [USFWS Geospatial Services](https://www.fws.gov/gis/data/national/),
+[Environmental Conservation Online System](https://ecos.fws.gov/ecp/report/table/critical-habitat.html),
+[Audubon](http://climate.audubon.org/article/audubon-report-glance),
+[ArcGIS](https://www.arcgis.com/home/item.html?id=06e80debbbc540b2bc620f874b011774),
 [data.gov](https://catalog.data.gov/dataset?tags=bird)
 
 ### Tools
