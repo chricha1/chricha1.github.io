@@ -1,6 +1,8 @@
 ### Objectives
 I am going to visualize how anthropogenic climate change affects habitat ranges of three bird species.
 I want to explore the relationship between urban areas and bird habitat, and compare that with rural areas.
+Look at current and projected for summer, winter, and permanent ranges.
+Three bird species - American goldfinch, 
 
 ### Question
 How does climate change overall and local human activity affect bird habitat ranges in the United States?
