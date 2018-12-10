@@ -13,7 +13,7 @@ I corresponded with Tammy Robbins, the Natural Resource Specialist of the Aquati
 at the Washington State Department of Natural Resources.
 I helped identify and map boat disposal locations throughout Washington state.
 
-![It's Fine Alt Text](Internship1/Washington_Boats.PNG)
+![It's Fine Alt Text](https://github.com/chricha1/chricha1.github.io/blob/master/Internship1/WashingtonBoatDisposal.PNG "WashingtonBoatDisposal.PNG")
 
 #### Alaska Oil Spill Report flyers
 I took on a project that was handed to my supervisor by Karla M. Dutton, the Alaska Program Director for Defenders of Wildlife.
