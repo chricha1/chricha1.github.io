@@ -21,7 +21,7 @@ with the probability of Lagrange Multiplier (error). Both were
 significant (p < 0.05), but LM (error) was more significant
 than LM (lag).
 
-![alt text](https://chricha1.github.io/Part2Fig2.PNG)
+![alt text](https://github.com/chricha1/chricha1.github.io/blob/master/lab6/Part2Fig2.PNG "Part2Fig2.PNG")
 
 I found that the Moran's I was a positive number so that means
 there is a correlation between the number of persons with library cards
