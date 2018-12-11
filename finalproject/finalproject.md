@@ -4,7 +4,7 @@ feature_image: "final_teaser.png"
 ---
 
 #### Process
-Question: Does the presence of cultural instutitions affect crime rates?
+Question: Does the presence of cultural instutitions affect crime rates in New York City?
 * Added delimted text layer
 * Used Wikimedia Map for basemap
 
