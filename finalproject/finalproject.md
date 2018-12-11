@@ -4,6 +4,7 @@ feature_image: "final_teaser.png"
 ---
 
 #### Process
+Question: Does the presence of cultural instutitions affect crime rates?
 * Added delimted text layer
 * Used Wikimedia Map for basemap
 
