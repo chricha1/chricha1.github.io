@@ -4,6 +4,8 @@ feature_image: "final_teaser.png"
 ---
 
 #### Process
+Added delimted text layer
+Used [Wikimedia Map](https://maps.wikimedia.org/osm-intl/{z}/{x}/{y}.png) for basemap
 
 #### Data
 [NYC Open Data - Cultural Institutions by block and lot](https://data.cityofnewyork.us/Recreation/Cultural-Institutions-by-block-and-lot/733r-da8r), 
