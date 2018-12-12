@@ -9,8 +9,7 @@ feature_image: "lab6_feature2.PNG"
 "OBJECTID" (instead of "CSA2010" because it is a string) in the
 "Vital_Signs_16_Arts_and_Culture" shapefile.
 
-
-![alt text](https://github.com/chricha1/chricha1.github.io/blob/master/lab6/Fig2-1.PNG "Fig2-1.PNG")
+![Figure 2-1](Fig2-1.PNG "Fig2-1.PNG")
 
 2 . Ran a regression report to observe the correlation between
 "cebus16" (Number of Businesses that are Arts-Related
@@ -22,7 +21,7 @@ with the probability of Lagrange Multiplier (error). Both were
 significant (p < 0.05), but LM (error) was more significant
 than LM (lag).
 
-![alt text](https://github.com/chricha1/chricha1.github.io/blob/master/lab6/Part2Fig2.PNG "Part2Fig2.PNG")
+![Part 2 Figure 2](Part2Fig2.PNG "Part2Fig2.PNG")
 
 I found that the Moran's I was a positive number so that means
 there is a correlation between the number of persons with library cards
@@ -30,7 +29,7 @@ and the number of art-related businesses.
 
 3 . Created the Bivariate Local Moran's I map.
 
-![alt text](https://github.com/chricha1/chricha1.github.io/blob/master/lab6/Part2Fig3.PNG "Part2Fig3.PNG")
+![Part 2 Figure 3](Part2Fig3.PNG "Part2Fig3.PNG")
 
 #### Findings
 
