@@ -20,22 +20,6 @@ title: Christine Chang's GIS Portfolio
 
 <div style="display: table-cell; width:370px" markdown="1">
 
-### Lab 5
-
-![It's Fine Alt Text](lab5/lab5_teaser.png)
-
-[See more details here.](https://chricha1.github.io/lab5/lab5.html)
-
-<small>__Tools__: Atom, SQL, Python, QGIS
-
-<small>__Data__: [Locate Press](http://locatepress.com/ppg3/data_code), [Natural Earth](http://www.naturalearthdata.com/downloads/)
-
-</div>
-</div>
-<!--This is the second row of projects -->
-<div style="display:table-row; width:100%; table-layout: fixed">
-<div style="display: table-cell; width:370px; margin-right:3px" markdown="1">
-
 ### Lab 6
 
 ![It's Fine Alt Text](lab6/lab6_teaser2.png)
@@ -46,6 +30,23 @@ title: Christine Chang's GIS Portfolio
 
 <small>__Data__: 
 [Baltimore Neighborhood Indicators Alliance](https://bniajfi.org/vital_signs/)
+
+</div>
+</div>
+<!--This is the second row of projects -->
+<div style="display:table-row; width:100%; table-layout: fixed">
+<div style="display: table-cell; width:370px; margin-right:3px" markdown="1">
+
+### Project 1
+
+![It's Fine Alt Text](Project1/project1_teaser.png)
+
+[See more details here.](https://chricha1.github.io/Project1/Project1.html)
+
+<small>__Tools__: 
+
+<small>__Data__: 
+[Baltimore City Open GIS Data](http://gis-baltimore.opendata.arcgis.com/)
 
 </div>
 
