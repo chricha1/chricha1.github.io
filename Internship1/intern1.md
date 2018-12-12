@@ -13,7 +13,7 @@ I corresponded with Tammy Robbins, the Natural Resource Specialist of the Aquati
 at the Washington State Department of Natural Resources.
 I helped identify and map boat disposal locations throughout Washington state.
 
-![It's Fine Alt Text](https://github.com/chricha1/chricha1.github.io/blob/master/Internship1/WashingtonBoatDisposal.PNG "WashingtonBoatDisposal.PNG")
+![Washington](WashingtonBoatDisposal.PNG "WashingtonBoatDisposal.PNG")
 
 #### Alaska Oil Spill Report flyers
 I took on a project that was handed to my supervisor by Karla M. Dutton, the Alaska Program Director for Defenders of Wildlife.
@@ -24,6 +24,6 @@ These flyers would later be distributed to schools, washaterias, and other publi
 In order to create these maps, I used ArcMap for the basemap, added Coast Guard boundaries, and created point shapefiles of major towns
 and villages.
 
-![It's Fine Alt Text](https://github.com/chricha1/chricha1.github.io/blob/master/Internship1/CookInlet_OilPoster.png "CookInlet_OilPoster.png")
+![Cook Inlet](CookInlet_OilPoster.png "CookInlet_OilPoster.png")
 
-![It's Fine Alt Text](https://github.com/chricha1/chricha1.github.io/blob/master/Internship1/KodiakIsland_OilPoster.PNG "KodiakIsland_OilPoster.PNG")
+![Kodiak Island](KodiakIsland_OilPoster.PNG "KodiakIsland_OilPoster.PNG")
