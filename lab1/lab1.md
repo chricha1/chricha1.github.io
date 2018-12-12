@@ -24,7 +24,8 @@ I found that for the Baltimore Housing Typology, the ideal market was towards th
 Surrounding those areas were mostly stressed, and there were some middle market choices on the outskirts.
 
 #### Future Alterations
-After some reflection, I realized using a different color for types E, F, and G would be better.
+After some reflection, I realized using different colors for types F, G, and H would represent them better because their colors were too
+similar to the color I used to represent green space.
 
 
 
