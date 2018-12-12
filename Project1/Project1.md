@@ -6,6 +6,8 @@ feature_image: "project1_feature.png"
 #### Exploring the Effect of Art Tax Credit on Baltimore City Ground Rent
 Baltimore City has three Arts & Entertainment (A&E) Districts: Bromo Seltzer, Highlandtown, and Station North. Artists or A&E enterprises may receive a 10-year property tax credit for renovated buildings that provide space for artists to live and work. The property tax credit is prorated to reflect the proportion of a renovated building and only applies to improvements made to the property. Property owners renovating live-work spaces in an A&E district can contact the MD State Department of Assessments and Taxation to determine the building’s eligibility. Within 90 days following receipt of a tax assessment, property owners must file a tax credit application with the City’s Department of Finance. Property owners must annually re-certify that the building is being used in compliance with the property tax credit.
 
+![Project 1](Project1.PNG "Project1.PNG")
+
 #### Procedure
 1. I changed the projection to WGS 84 Pseudo-Mercator.
 2. I added the Real Property shapefile, using a graduated colors symbology based on Ground Rent for Map 1 and based on Art Tax Base for Map 2.  I also added a shapefile of Baltimore City's neighborhood boundaries (as of the year 2010). The data was found on Open Baltimore and provided by MOIT - GIS.
