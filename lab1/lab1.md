@@ -23,6 +23,6 @@ Surrounding those areas were mostly stressed, and there were some middle market 
 
 #### Future Alterations
 
-![It's Fine Alt Text](BmoreMarket.PNG "BmoreMarket.PNG")
+![Baltimore Market Types](BmoreMarket.PNG "BmoreMarket.PNG")
 
 
