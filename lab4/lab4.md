@@ -126,7 +126,7 @@ Output:
 ```
 
 Output:
-![alt text](https://chricha1.github.io/Filter2.PNG)
+![Filter 2](Filter2.PNG "Filter2.PNG")
 
 ###### Buffering a feature intermediate:
 
