@@ -2,6 +2,8 @@
 title: Lab 1
 feature_image: "lab1_feature.png"
 ---
+A map of Baltimore neighborhood market types
+![Baltimore Market Types](BmoreMarket.PNG "BmoreMarket.PNG")
 
 #### Process of Creating the Map
 For guidelines on how to add visual details to the map, I did a Google search of "Baltimore MVA"
@@ -22,7 +24,7 @@ I found that for the Baltimore Housing Typology, the ideal market was towards th
 Surrounding those areas were mostly stressed, and there were some middle market choices on the outskirts.
 
 #### Future Alterations
+After some reflection, I realized using a different color for types E, F, and G would be better.
 
-![Baltimore Market Types](BmoreMarket.PNG "BmoreMarket.PNG")
 
 
