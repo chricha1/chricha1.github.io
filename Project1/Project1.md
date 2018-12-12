@@ -15,7 +15,7 @@ Baltimore City has three Arts & Entertainment (A&E) Districts: Bromo Seltzer, Hi
 4. I used IDW Interpolation to create a raster for the Ground Rent 3D map.
 5. I used Clip Raster with Polygon, then used this clipped layer for the "elevation" in the 3D Configuration window. I also used a vertical scale of 0.25 and tile resolution of 100 px, which looked the best for visualizing the Ground Rent Data.
 
-![It's Fine Alt Text](https://github.com/chricha1/chricha1.github.io/blob/master/Project1/3D.PNG)
+![3D Map](3D.PNG "3D.PNG")
 
 #### Conclusions
 I found the highest ground rent to be around the inner city.
