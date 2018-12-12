@@ -23,6 +23,6 @@ Surrounding those areas were mostly stressed, and there were some middle market 
 
 #### Future Alterations
 
-![It's Fine Alt Text](https://github.com/chricha1/chricha1.github.io/blob/master/lab1/BmoreMarket.PNG "BmoreMarket.PNG")
+![It's Fine Alt Text](BmoreMarket.PNG "BmoreMarket.PNG")
 
 
