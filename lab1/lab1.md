@@ -2,7 +2,6 @@
 title: Lab 1
 feature_image: "lab1_feature.png"
 ---
-A map of Baltimore neighborhood market types
 
 ![Baltimore Market Types](BmoreMarket.PNG "BmoreMarket.PNG")
 
