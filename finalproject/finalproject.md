@@ -22,13 +22,23 @@ lyrPts.selectByIds([s.id() for s in selection])
 
 #### Data
 
+All data is from [Open Baltimore](https://data.baltimorecity.gov/).
+
+[Arts Organizations](https://data.baltimorecity.gov/Culture-Arts/Baltimore-Arts-Organizations/r4ur-u5nm)
+
+[All Crimes 2012-2018](https://data.baltimorecity.gov/Public-Safety/BPD-Part-1-Victim-Based-Crime-Data/wsfq-mvij/data)
+
+[Neighborhood Boundaries 2010](https://data.baltimorecity.gov/Neighborhoods/Neighborhoods-Shape/ysi8-7icr)
+
 #### Tools Used
 
 #### Findings
 
 ![Moran's I step 1](morani1.PNG "morani1.PNG")
+Bivariate Local Moran's I
 
 ![Moran's I step 2](morani2.PNG "morani2.PNG")
+Cluster Map & Moran's Scatter Plot
 
 #### Future Research
 
