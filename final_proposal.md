@@ -1,3 +1,7 @@
+---
+title: Final Project Proposal
+---
+
 ### Objectives
 I am going to visualize how anthropogenic climate change affects habitat ranges of three bird species.
 I want to explore the relationship between urban areas and bird habitat, and compare that with rural areas.
