@@ -54,7 +54,7 @@ title: Christine Chang's GIS Portfolio
 
 ### Final Project
 
-![It's Fine Alt Text](finalproject/finalteaser.png)
+![It's Fine Alt Text](finalproject/finalp_teaser.png)
 
 [See more details here.](https://chricha1.github.io/finalproject/finalproject.html)
 
