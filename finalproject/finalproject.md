@@ -11,7 +11,7 @@ lyrPts = iface.addVectorLayer("Z:/ges486/final_proj/all2014homi_shoot.shp", "Cri
 selection = lyrPts.getFeatures(QgsFeatureRequest(). setFilterExpression(u'"Neighborho" = \'Brooklyn\''))
 lyrPts.selectByIds([s.id() for s in selection])
 ```
-
+![Select](step1.PNG "step1.PNG")
 
 ![Heatmap](heatmapreal.PNG "heatmapreal.PNG")
 
