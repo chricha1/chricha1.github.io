@@ -11,7 +11,7 @@ Question: Does the presence of art organizations affect crime rates in Baltimore
 * Added delimted text layer
 * Used Wikimedia Map for basemap
 
-![3D Heatmap](3Dreal.PNG "3Dreal.PNG")
+![3D Heatmap](3Dreal1.PNG "3Dreal1.PNG")
 
 #### Data
 
