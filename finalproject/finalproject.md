@@ -5,10 +5,11 @@ feature_image: "finalp_teaser.png"
 
 #### Process
 Question: Does the presence of art organizations affect crime rates in Baltimore City?
-* Added delimted text layer
-* Used Wikimedia Map for basemap
 
 ![Heatmap](heatmapreal.PNG "heatmapreal.PNG")
+
+* Added delimted text layer
+* Used Wikimedia Map for basemap
 
 ![3D Heatmap](3Dreal.PNG "3Dreal.PNG")
 
