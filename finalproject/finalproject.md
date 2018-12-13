@@ -10,7 +10,7 @@ Question: Does the presence of art organizations affect crime rates in Baltimore
 
 ![Heatmap](heatmapreal.PNG "heatmapreal.PNG")
 
-![3D Heatmap](3D.PNG "3D.PNG")
+![3D Heatmap](3Dreal.PNG "3Dreal.PNG")
 
 #### Data
 
