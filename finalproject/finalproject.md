@@ -1,6 +1,6 @@
 ---
 title: Final Project
-feature_image: "final_teaser.png"
+feature_image: "finalteaser1.png"
 ---
 
 #### Process
