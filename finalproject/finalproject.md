@@ -4,7 +4,7 @@ feature_image: "final_teaser.png"
 ---
 
 #### Process
-Question: Does the presence of cultural instutitions affect crime rates in Baltimore City?
+Question: Does the presence of art organizations affect crime rates in Baltimore City?
 * Added delimted text layer
 * Used Wikimedia Map for basemap
 
@@ -22,4 +22,5 @@ Question: Does the presence of cultural instutitions affect crime rates in Balti
 
 ![Moran's I step 2](morani2.PNG "morani2.PNG")
 
-#### Future Alterations
+#### Future Research
+
