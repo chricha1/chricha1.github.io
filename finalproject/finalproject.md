@@ -8,7 +8,7 @@ Question: Does the presence of cultural instutitions affect crime rates in Balti
 * Added delimted text layer
 * Used Wikimedia Map for basemap
 
-![Heatmap](heatmap.PNG "heatmap.PNG")
+![Heatmap](heatmap.PNG "heatmap1.PNG")
 
 ![3D Heatmap](3D.PNG "3D.PNG")
 
