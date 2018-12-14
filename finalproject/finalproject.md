@@ -4,6 +4,7 @@ feature_image: ""
 ---
 
 #### Process
+
 Question: Does the presence of art organizations affect crime rates in Baltimore City?
 
 ```python
@@ -15,10 +16,9 @@ lyrPts.selectByIds([s.id() for s in selection])
 
 * Added delimited text layer
 * Used Wikimedia Map for basemap
-* http://www.gpsvisualizer.com/geocoder/, https://trumpexcel.com/split-multiple-lines/, 
-https://data.baltimorecity.gov/Public-Safety/BPD-Part-1-Victim-Based-Crime-Data/wsfq-mvij/data
-Add empty column before “Crime Date” → =TEXT(B1,"yyyymmdd")
-* counted crimes, counted art. put in neighborhood shapefile to do Moran's I later.
+* Edited the [original 2014 Crimes .csv file](https://data.baltimorecity.gov/Public-Safety/BPD-Part-1-Victim-Based-Crime-Data/wsfq-mvij/data) to get [coordinates](http://www.gpsvisualizer.com/geocoder/), https://trumpexcel.com/split-multiple-lines/.
+* Added empty column before “Crime Date” → =TEXT(B1,"yyyymmdd")
+* Made 2 new columns in the Neighborhoods 2010 shapefile: counted crimes, counted art. in order to perform Moran's I analysis later.
 
 * Projected layers to EPSG:2248 - NAD83/Maryland(ftUS)
 
@@ -44,7 +44,6 @@ with crimes_count as dependent variable and artorgs_count as covariate.
 
 #### Future Research
 
-
 __Author:__ Christine Chang
 
 __Languages:__ HTML, Markdown, Python, SQL
@@ -56,5 +55,3 @@ __Data Sources:__ All data is from [Open Baltimore](https://data.baltimorecity.g
 * [Arts Organizations](https://data.baltimorecity.gov/Culture-Arts/Baltimore-Arts-Organizations/r4ur-u5nm)
 * [All Crimes 2012-2018](https://data.baltimorecity.gov/Public-Safety/BPD-Part-1-Victim-Based-Crime-Data/wsfq-mvij/data)
 * [Neighborhood Boundaries 2010](https://data.baltimorecity.gov/Neighborhoods/Neighborhoods-Shape/ysi8-7icr)
-
-#### Tools Used
