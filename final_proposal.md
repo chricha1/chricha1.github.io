@@ -9,7 +9,13 @@ Heatmap, Moran's I, Python, SQL, statistical analysis.
 How does the presence of art organizations affect crime in Baltimore City?
 
 ### Data
+All data will be from [Open Baltimore](https://data.baltimorecity.gov/).
 
+[Arts Organizations](https://data.baltimorecity.gov/Culture-Arts/Baltimore-Arts-Organizations/r4ur-u5nm)
+
+[All Crimes 2012-2018](https://data.baltimorecity.gov/Public-Safety/BPD-Part-1-Victim-Based-Crime-Data/wsfq-mvij/data)
+
+[Neighborhood Boundaries 2010](https://data.baltimorecity.gov/Neighborhoods/Neighborhoods-Shape/ysi8-7icr)
 
 ### Tools
 * Heatmap to summarize the density of crimes and create a color gradient for number of art organizations in each neighborhood.
