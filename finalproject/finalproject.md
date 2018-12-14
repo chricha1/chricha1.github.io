@@ -16,8 +16,9 @@ lyrPts.selectByIds([s.id() for s in selection])
 
 * Added delimited text layer
 * Used Wikimedia Map for basemap
-* Edited the [original 2014 Crimes .csv file](https://data.baltimorecity.gov/Public-Safety/BPD-Part-1-Victim-Based-Crime-Data/wsfq-mvij/data) to get [coordinates](http://www.gpsvisualizer.com/geocoder/), https://trumpexcel.com/split-multiple-lines/.
-* Added empty column before “Crime Date” → =TEXT(B1,"yyyymmdd")
+* Edited the [original 2014 Crimes .csv file](https://data.baltimorecity.gov/Public-Safety/BPD-Part-1-Victim-Based-Crime-Data/wsfq-mvij/data) to separate from addresses and coordinates (https://trumpexcel.com/split-multiple-lines/).
+* Edited the [original Art Organizations file]() to get [coordinates](http://www.gpsvisualizer.com/geocoder/).
+* Added empty column before “Crime Date” → =TEXT(B1,"yyyymmdd") to later select only 2014 crimes using SQL.
 * Made 2 new columns in the Neighborhoods 2010 shapefile: counted crimes, counted art. in order to perform Moran's I analysis later.
 
 * Projected layers to EPSG:2248 - NAD83/Maryland(ftUS)
