@@ -39,7 +39,9 @@ Bivariate Local Moran's I:
 
 Cluster Map & Moran's Scatter Plot:
 
-![Moran's I step 2](morani2-1.png "morani2-1.png") ![Moran's I step 2](morani2-2.png "morani2-2.png")
+![Moran's I step 2](morani2-1.png "morani2-1.png")
+
+![Moran's I step 2](morani2-2.png "morani2-2.png")
 
 Regression Report:
 
