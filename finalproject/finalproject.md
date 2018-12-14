@@ -45,14 +45,16 @@ with crimes_count as dependent variable and artorgs_count as covariate.
 #### Future Research
 
 
-#### Data
+__Author:__ Christine Chang
 
-All data is from [Open Baltimore](https://data.baltimorecity.gov/).
+__Languages:__ HTML, Markdown, Python, SQL
 
-[Arts Organizations](https://data.baltimorecity.gov/Culture-Arts/Baltimore-Arts-Organizations/r4ur-u5nm)
+__Applications:__ QGIS, GeoDa
 
-[All Crimes 2012-2018](https://data.baltimorecity.gov/Public-Safety/BPD-Part-1-Victim-Based-Crime-Data/wsfq-mvij/data)
+__Data Sources:__ All data is from [Open Baltimore](https://data.baltimorecity.gov/).
 
-[Neighborhood Boundaries 2010](https://data.baltimorecity.gov/Neighborhoods/Neighborhoods-Shape/ysi8-7icr)
+* [Arts Organizations](https://data.baltimorecity.gov/Culture-Arts/Baltimore-Arts-Organizations/r4ur-u5nm)
+* [All Crimes 2012-2018](https://data.baltimorecity.gov/Public-Safety/BPD-Part-1-Victim-Based-Crime-Data/wsfq-mvij/data)
+* [Neighborhood Boundaries 2010](https://data.baltimorecity.gov/Neighborhoods/Neighborhoods-Shape/ysi8-7icr)
 
 #### Tools Used
