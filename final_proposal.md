@@ -25,7 +25,8 @@ All data will be from [Open Baltimore](https://data.baltimorecity.gov/).
 * Moran's I to visualize the correlation between presence of art organizations and crime.
 
 ### Process
-I will know when I have answered my question when I see a significant relationship between urban areas and shrinking bird habitat range.
+I will know when I have answered my question when I see a significant relationship between neighborhoods with high density of
+art organizations and low crime rate.
 
 ### Rationale
 * Other components that I will incorporate are 3D maps and spatial analysis using Python.
