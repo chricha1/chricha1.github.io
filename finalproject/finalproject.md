@@ -13,12 +13,12 @@ lyrPts.selectByIds([s.id() for s in selection])
 ```
 ![Select](step1.PNG "step1.PNG")
 
+* Added delimited text layer
+* Used Wikimedia Map for basemap
 * Projected layers to EPSG:2248 - NAD83/Maryland(ftUS)
 
 ![Heatmap](heatmapreal.PNG "heatmapreal.PNG")
 
-* Added delimted text layer
-* Used Wikimedia Map for basemap
 * Increased radius to 5000 and decreased number of rows to 50.
 
 ![3D Heatmap](3Dreal1.PNG "3Dreal1.PNG")
