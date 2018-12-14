@@ -37,9 +37,11 @@ Bivariate Local Moran's I:
 
 ![Moran's I step 1](morani1.PNG "morani1.PNG")
 
-Cluster Map & Moran's Scatter Plot:
+Cluster Map:
 
 ![Moran's I step 2](morani2-1.png "morani2-1.png")
+
+Moran's Scatter Plot:
 
 ![Moran's I step 2](morani2-2.png "morani2-2.png")
 
