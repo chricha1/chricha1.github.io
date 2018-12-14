@@ -27,7 +27,7 @@ lyrPts.selectByIds([s.id() for s in selection])
 
 * Increased radius to 5000 and decreased number of rows to 50.
 
-![3D Heatmap](3Dreal1.PNG "3Dreal1.PNG")
+![3D Heatmap](3Dreal2.PNG "3Dreal2.PNG")
 
 * Using a vertical scale of 60 and Tile resolution of 200.
 
