@@ -15,6 +15,11 @@ lyrPts.selectByIds([s.id() for s in selection])
 
 * Added delimited text layer
 * Used Wikimedia Map for basemap
+* http://www.gpsvisualizer.com/geocoder/, https://trumpexcel.com/split-multiple-lines/, 
+https://data.baltimorecity.gov/Public-Safety/BPD-Part-1-Victim-Based-Crime-Data/wsfq-mvij/data
+Add empty column before “Crime Date” → =TEXT(B1,"yyyymmdd")
+* counted crimes, counted art. put in neighborhood shapefile to do Moran's I later.
+
 * Projected layers to EPSG:2248 - NAD83/Maryland(ftUS)
 
 ![Heatmap](heatmapreal.PNG "heatmapreal.PNG")
