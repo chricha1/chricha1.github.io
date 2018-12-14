@@ -30,18 +30,6 @@ Add empty column before “Crime Date” → =TEXT(B1,"yyyymmdd")
 
 * Using a vertical scale of 60 and Tile resolution of 200.
 
-#### Data
-
-All data is from [Open Baltimore](https://data.baltimorecity.gov/).
-
-[Arts Organizations](https://data.baltimorecity.gov/Culture-Arts/Baltimore-Arts-Organizations/r4ur-u5nm)
-
-[All Crimes 2012-2018](https://data.baltimorecity.gov/Public-Safety/BPD-Part-1-Victim-Based-Crime-Data/wsfq-mvij/data)
-
-[Neighborhood Boundaries 2010](https://data.baltimorecity.gov/Neighborhoods/Neighborhoods-Shape/ysi8-7icr)
-
-#### Tools Used
-
 #### Findings
 
 ![Moran's I step 1](morani1.PNG "morani1.PNG")
@@ -56,3 +44,15 @@ with crimes_count as dependent variable and artorgs_count as covariate.
 
 #### Future Research
 
+
+#### Data
+
+All data is from [Open Baltimore](https://data.baltimorecity.gov/).
+
+[Arts Organizations](https://data.baltimorecity.gov/Culture-Arts/Baltimore-Arts-Organizations/r4ur-u5nm)
+
+[All Crimes 2012-2018](https://data.baltimorecity.gov/Public-Safety/BPD-Part-1-Victim-Based-Crime-Data/wsfq-mvij/data)
+
+[Neighborhood Boundaries 2010](https://data.baltimorecity.gov/Neighborhoods/Neighborhoods-Shape/ysi8-7icr)
+
+#### Tools Used
