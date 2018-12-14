@@ -41,6 +41,7 @@ Bivariate Local Moran's I
 Cluster Map & Moran's Scatter Plot
 
 ![Regression Report](report.PNG "report.PNG")
+
 with crimes_count as dependent variable and artorgs_count as covariate.
 
 #### Future Research
