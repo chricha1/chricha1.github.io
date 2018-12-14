@@ -36,8 +36,8 @@ lyrPts.selectByIds([s.id() for s in selection])
 ![Moran's I step 1](morani1.PNG "morani1.PNG")
 Bivariate Local Moran's I
 
-![Moran's I step 2](morani2-1.PNG "morani2-1.PNG")
-![Moran's I step 2](morani2-2.PNG "morani2-2.PNG")
+![Moran's I step 2](morani2-1.png "morani2-1.png")
+![Moran's I step 2](morani2-2.png "morani2-2.png")
 Cluster Map & Moran's Scatter Plot
 
 ![Regression Report](report.PNG "report.PNG")
