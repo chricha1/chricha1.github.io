@@ -25,7 +25,7 @@ lyrPts.selectByIds([s.id() for s in selection])
 
 ![Heatmap](heatmapreal.PNG "heatmapreal.PNG")
 
-* Increased radius to 5000 and decreased number of rows to 500.
+* Radius of 5000 feet (and decreased number of rows to 500).
 * Clip raster by mask layer (input layer: heatmap, mask layer: neighborhoods)
 
 ![3D Heatmap](3Dreal2.PNG "3Dreal2.PNG")
