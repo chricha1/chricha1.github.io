@@ -23,7 +23,7 @@ lyrPts.selectByIds([s.id() for s in selection])
 
 * Projected layers to EPSG:2248 - NAD83/Maryland(ftUS)
 
-![Heatmap](heatmapreal.PNG "heatmapreal.PNG")
+![Heatmap](map1.PNG "map1.PNG")
 
 * Radius of 5000 feet (and decreased number of rows to 500).
 * Clip raster by mask layer (input layer: heatmap, mask layer: neighborhoods)
