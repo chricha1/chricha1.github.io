@@ -3,9 +3,39 @@ title: Final Project
 feature_image: ""
 ---
 
+This project aims to shed light on how creative placemaking can impact public safety outcomes in Baltimore City.
+
+Public safety refers to the welfare and protection of the general public, and strives
+towards a vibrant community where “people feel free of threats to their persons and
+property.”
+
+Creative placemaking is an emerging form of participatory art-making, given increasing attention by
+scholars, practitioners, policymakers, and funders over the past decade. Creative placemaking adds
+dimensions of art and creative practice to the placemaking field, promoting the belief that
+community development should be holistic and human-centered (Bennett 2014).
+
+In practice, creative placemaking combines the field of planning with community relationship-building;
+it places a high value on streetscapes and is designed to improve economic outcomes by utilizing
+undervalued resources and developing strong social networks through artistic practice (Stern 2014).
+
+Projects at the intersection of creative placemaking and public safety fall into five primary
+types of activities: projects that promote empathy and understanding, projects that influence
+law and policy, projects that provide career opportunities, projects that support well-being, and
+projects that advance quality of place.
+
+My final project for GES 486 was inspired by a 2017 report by the Social Impact of the Arts Project (SIAP) at the University of
+Pennsylvania. The results of the three-year study showed how cultural resources are significantly linked to better health, schooling,
+and security in New York City's lower-income neighborhoods. I performed a similar preliminary analysis on Baltimore City's
+neighborhoods, arts organizations, and violent crimes (specifically homicides and shootings).
+
 #### Process
 
 Question: Does the presence of art organizations affect crime rates in Baltimore City?
+
+The first thing I had to do was gather [crime data]() for Baltimore City. I downloaded the csv file and extracted all crimes for 2014 only.
+
+Once I had all homicides and shootings that occurred in Baltimore City in 2014, I used Python to select and count these specific crimes
+by neighborhood. I also used [neighborhood census data](https://data.baltimorecity.gov/Neighborhoods/2010-Census-Neighborhoods/r3qj-2ifh) to take into account the population of each neighborhood.
 
 ```python
 lyrPts = iface.addVectorLayer("Z:/ges486/final_proj/all2014homi_shoot.shp", "Crimes", "ogr")
