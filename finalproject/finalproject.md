@@ -32,7 +32,8 @@ neighborhoods, arts organizations, and violent crimes (specifically homicides an
 
 Question: Does the presence of art organizations affect crime rates in Baltimore City?
 
-The first thing I had to do was gather [crime data]() for Baltimore City. I downloaded the csv file and extracted all crimes for 2014 only.
+The first thing I had to do was gather [crime data](https://data.baltimorecity.gov/Public-Safety/BPD-Part-1-Victim-Based-Crime-Data/wsfq-mvij/data) for Baltimore City. I downloaded the csv file and used SQL to extract all crimes for 2014 only, then created a new
+shapefile for 2014 crimes.
 
 Once I had all homicides and shootings that occurred in Baltimore City in 2014, I used Python to select and count these specific crimes
 by neighborhood. I also used [neighborhood census data](https://data.baltimorecity.gov/Neighborhoods/2010-Census-Neighborhoods/r3qj-2ifh) to take into account the population of each neighborhood.
