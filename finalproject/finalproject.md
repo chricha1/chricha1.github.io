@@ -1,6 +1,6 @@
 ---
 title: Final Project
-feature_image: ""
+feature_image: "final_feature.png"
 ---
 
 This project aims to shed light on how creative placemaking can impact public safety outcomes in Baltimore City.
