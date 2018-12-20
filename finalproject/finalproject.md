@@ -12,11 +12,9 @@ property.”
 Creative placemaking is an emerging form of participatory art-making, given increasing attention by
 scholars, practitioners, policymakers, and funders over the past decade. Creative placemaking adds
 dimensions of art and creative practice to the placemaking field, promoting the belief that
-community development should be holistic and human-centered (Bennett 2014).
-
-In practice, creative placemaking combines the field of planning with community relationship-building;
-it places a high value on streetscapes and is designed to improve economic outcomes by utilizing
-undervalued resources and developing strong social networks through artistic practice (Stern 2014).
+community development should be holistic and human-centered (Bennett 2014). In practice, creative placemaking combines the field of
+planning with community relationship-building; it places a high value on streetscapes and is designed to improve economic outcomes by
+utilizing undervalued resources and developing strong social networks through artistic practice (Stern 2014).
 
 Projects at the intersection of creative placemaking and public safety fall into five primary
 types of activities: projects that promote empathy and understanding, projects that influence
@@ -26,7 +24,7 @@ projects that advance quality of place.
 My final project for GES 486 was inspired by a 2017 report by the Social Impact of the Arts Project (SIAP) at the University of
 Pennsylvania. The results of the three-year study showed how cultural resources are significantly linked to better health, schooling,
 and security in New York City's lower-income neighborhoods. I performed a similar preliminary analysis on Baltimore City's
-neighborhoods, arts organizations, and violent crimes (specifically homicides and shootings).
+neighborhoods, arts organizations (such as museums and dance studios), and violent crimes (specifically homicides and shootings).
 
 #### Process
 
