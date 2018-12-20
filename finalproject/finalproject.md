@@ -30,11 +30,16 @@ neighborhoods, arts organizations (such as museums and dance studios), and viole
 
 Question: Does the presence of art organizations affect crime rates in Baltimore City?
 
-The first thing I had to do was gather [crime data](https://data.baltimorecity.gov/Public-Safety/BPD-Part-1-Victim-Based-Crime-Data/wsfq-mvij/data) for Baltimore City. I downloaded the csv file and used SQL to extract all crimes for 2014 only, then created a new
-shapefile for 2014 crimes.
+The first thing I had to do was gather [crime data](https://data.baltimorecity.gov/Public-Safety/BPD-Part-1-Victim-Based-Crime-Data/wsfq-mvij/data) for Baltimore City.
+I edited the [original 2014 Crimes .csv file](https://data.baltimorecity.gov/Public-Safety/BPD-Part-1-Victim-Based-Crime-Data/wsfq-mvij/data) to separate addresses and coordinates (https://trumpexcel.com/split-multiple-lines/). Then I added an empty column before
+“Crime Date” → =TEXT(B1,"yyyymmdd") which would order all crimes by year, month, then date so that I could later select only 2014 crimes using SQL.
+
+I also edited the [original Art Organizations file](https://data.baltimorecity.gov/Culture-Arts/Baltimore-Arts-Organizations/r4ur-u5nm) to get [coordinates](http://www.gpsvisualizer.com/geocoder/) of each arts organization.
 
 Once I had all homicides and shootings that occurred in Baltimore City in 2014, I used Python to select and count these specific crimes
-by neighborhood. I also used [neighborhood census data](https://data.baltimorecity.gov/Neighborhoods/2010-Census-Neighborhoods/r3qj-2ifh) to take into account the population of each neighborhood.
+by neighborhood. I also used [neighborhood census data](https://data.baltimorecity.gov/Neighborhoods/2010-Census-Neighborhoods/r3qj-2ifh) to take into account the population in each neighborhood.
+
+I used Python to count number of arts organizations in each neighborhood. I added 2 new columns in the Neighborhoods 2010 shapefile: count_crimes and count_art in order to perform Moran's I analysis later.
 
 ```python
 lyrPts = iface.addVectorLayer("Z:/ges486/final_proj/all2014homi_shoot.shp", "Crimes", "ogr")
@@ -45,19 +50,14 @@ lyrPts.selectByIds([s.id() for s in selection])
 <small>__Figure 1__:  Orange points represent 2014 homicides and shootings, white points represent arts organizations, and yellow points
 are selected points in each neighborhood.
 
-* Added delimited text layer
-* Used Wikimedia Map for basemap
-* Edited the [original 2014 Crimes .csv file](https://data.baltimorecity.gov/Public-Safety/BPD-Part-1-Victim-Based-Crime-Data/wsfq-mvij/data) to separate from addresses and coordinates (https://trumpexcel.com/split-multiple-lines/).
-* Edited the [original Art Organizations file]() to get [coordinates](http://www.gpsvisualizer.com/geocoder/).
-* Added empty column before “Crime Date” → =TEXT(B1,"yyyymmdd") to later select only 2014 crimes using SQL.
-* Made 2 new columns in the Neighborhoods 2010 shapefile: counted crimes, counted art. in order to perform Moran's I analysis later.
+I used [Wikimedia Map](https://wiki.openstreetmap.org/wiki/Tile_servers) for the basemap.
 
-* Projected layers to EPSG:2248 - NAD83/Maryland(ftUS)
+I used Kernel Density Estimation to create a density (heatmap) raster. First, I projected all layers to EPSG:2248 -
+NAD83/Maryland(ftUS). Then before running the heatmap builder, I increased the radius to 5000 feet and decreased number of rows to 500. For the final step, I made sure to Clip raster by mask layer (input layer: heatmap, mask layer: neighborhoods).
 
 ![Heatmap](map1.PNG "map1.PNG")
 
-* Radius of 5000 feet (and decreased number of rows to 500).
-* Clip raster by mask layer (input layer: heatmap, mask layer: neighborhoods)
+<small>__Figure2__:  Heatmap with radius of 5000 feet.
 
 ![3D Heatmap](3Dreal2.PNG "3Dreal2.PNG")
 
@@ -85,9 +85,10 @@ with count_crimes as dependent variable and count_artorgs as covariate.
 
 #### Future Research
 
+
 __Author:__ Christine Chang
 
-__Languages:__ HTML, Markdown, Python, SQL
+__Languages:__ Markdown, Python, SQL
 
 __Applications:__ QGIS, GeoDa
 
