@@ -64,6 +64,9 @@ NAD83/Maryland(ftUS). Then before running the heatmap builder, I increased the r
 
 ### Findings
 
+To get a better look at how presence of arts organizations and occurrence of homicides/shootings were spatially correlated with each
+other, I ran a Bivariate Moran’s I analysis. 
+
 Bivariate Local Moran's I:
 
 ![Moran's I step 1](morani1.PNG "morani1.PNG")
@@ -80,10 +83,11 @@ Regression Report:
 
 ![Regression Report](report.PNG "report.PNG")
 
-with count_crimes as dependent variable and count_artorgs as covariate.
+The results show that there is a slight negative correlation.
 
 ### Future Research
-
+I would like to use spatial statistics to show percentages of decrease in serious crime rate, and furthermore the percentages of
+decrease in cases of child abuse/neglect and increase in kids scoring in the top stratum on English and math exams.
 
 __Author:__ Christine Chang
 
