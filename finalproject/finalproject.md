@@ -56,12 +56,11 @@ I used Kernel Density Estimation to create a density (heatmap) raster. First, I 
 NAD83/Maryland(ftUS). Then before running the heatmap builder, I increased the radius to 5000 feet and decreased number of rows to 500. For the final step, I made sure to Clip raster by mask layer (input layer: heatmap, mask layer: neighborhoods).
 
 ![Heatmap](map1.PNG "map1.PNG")
-
-<small>__Figure2__:  Heatmap with radius of 5000 feet.
+<small>__Figure 2__:  Heatmap with radius of 5000 feet.
 
 ![3D Heatmap](3Dreal2.PNG "3Dreal2.PNG")
 
-* Using a vertical scale of 60 and Tile resolution of 200.
+<small>__Figure 3__:  3D View of Heatmap, using a vertical scale of 60 and tile resolution of 200.
 
 #### Findings
 
