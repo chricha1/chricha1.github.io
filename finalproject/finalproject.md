@@ -42,8 +42,8 @@ selection = lyrPts.getFeatures(QgsFeatureRequest(). setFilterExpression(u'"Neigh
 lyrPts.selectByIds([s.id() for s in selection])
 ```
 ![Select](step1.PNG "step1.PNG")
-<small> Orange points represent 2014 homicides and shootings, white points represent arts organizations, and yellow points are selected
-points in each neighborhood.
+<small>__Figure 1__:  Orange points represent 2014 homicides and shootings, white points represent arts organizations, and yellow points
+are selected points in each neighborhood.
 
 * Added delimited text layer
 * Used Wikimedia Map for basemap
