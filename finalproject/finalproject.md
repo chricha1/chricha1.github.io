@@ -26,7 +26,7 @@ Pennsylvania. The results of the three-year study showed how cultural resources 
 and security in New York City's lower-income neighborhoods. I performed a similar preliminary analysis on Baltimore City's
 neighborhoods, arts organizations (such as museums and dance studios), and violent crimes (specifically homicides and shootings).
 
-#### Process
+### Process
 
 Question: Does the presence of art organizations affect crime rates in Baltimore City?
 
@@ -62,7 +62,7 @@ NAD83/Maryland(ftUS). Then before running the heatmap builder, I increased the r
 
 <small>__Figure 3__:  3D View of Heatmap, using a vertical scale of 60 and tile resolution of 200.
 
-#### Findings
+### Findings
 
 Bivariate Local Moran's I:
 
@@ -82,7 +82,7 @@ Regression Report:
 
 with count_crimes as dependent variable and count_artorgs as covariate.
 
-#### Future Research
+### Future Research
 
 
 __Author:__ Christine Chang
